@@ -7,9 +7,6 @@ Raspberry Pi (Abgleich eines Google-Drive-Ordners). Google verlangt beides, um d
 - https://hermes-mal.github.io/rclone-pi/
 - https://hermes-mal.github.io/rclone-pi/datenschutz.html
 
-Stand: **privat**, zur Durchsicht. Erst nach der Freigabe wird das Repository öffentlich
-und GitHub Pages eingeschaltet (für private Repositorys gibt es Pages nur mit einem bezahlten Konto).
-
 ## Vorschau
 
 So sehen die beiden Seiten aus (gerendert aus `index.html` und `datenschutz.html`, Chromium;
